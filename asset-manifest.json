@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PixelGram/static/css/main.b4db3970.chunk.css",
+    "main.js": "/PixelGram/static/js/main.16d094f3.chunk.js",
+    "main.js.map": "/PixelGram/static/js/main.16d094f3.chunk.js.map",
+    "runtime-main.js": "/PixelGram/static/js/runtime-main.882481c6.js",
+    "runtime-main.js.map": "/PixelGram/static/js/runtime-main.882481c6.js.map",
+    "static/js/2.27c43b6e.chunk.js": "/PixelGram/static/js/2.27c43b6e.chunk.js",
+    "static/js/2.27c43b6e.chunk.js.map": "/PixelGram/static/js/2.27c43b6e.chunk.js.map",
+    "index.html": "/PixelGram/index.html",
+    "precache-manifest.2d8c991a580c6b1ae9748cd702bf5d73.js": "/PixelGram/precache-manifest.2d8c991a580c6b1ae9748cd702bf5d73.js",
+    "service-worker.js": "/PixelGram/service-worker.js",
+    "static/css/main.b4db3970.chunk.css.map": "/PixelGram/static/css/main.b4db3970.chunk.css.map",
+    "static/js/2.27c43b6e.chunk.js.LICENSE.txt": "/PixelGram/static/js/2.27c43b6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882481c6.js",
+    "static/js/2.27c43b6e.chunk.js",
+    "static/css/main.b4db3970.chunk.css",
+    "static/js/main.16d094f3.chunk.js"
+  ]
+}
